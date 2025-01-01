@@ -1,0 +1,14 @@
+Binaries/
+.vs/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+*.sln
+*.log
+*.obj
+*.exe
+*.dll
+*.pdb
+*.tmp
+*.temp
